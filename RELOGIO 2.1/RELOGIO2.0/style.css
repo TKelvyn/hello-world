@@ -1,0 +1,259 @@
+
+.botaof1{
+position: absolute;left: 73px;top: 130px;
+width: 30px;
+height: 30px;
+border-radius: 10px;
+cursor: pointer;
+font-size: 100%;
+color: #fff;
+background-color: rgb(48, 48, 48);
+border: 1px #000000;
+box-shadow:0 3px 0 #000000;
+}
+.botaof1:active{
+position: absolute;
+top: 133px;
+box-shadow:none;
+ }
+.botaoc{
+position: absolute;left:94px;top:329px;
+}
+.botaoc:active{
+position: absolute;
+top: 332px;
+box-shadow:none;
+}
+.botaoE{
+color: rgb(0, 255, 13);
+width: 40px;
+height: 40px;
+border-radius: 100%;
+cursor: pointer;
+background-color: rgb(48, 48, 48);
+font-size: 100%;
+box-shadow:0 3px 0 #000000;
+border: 1px #000000;
+position: absolute;left:180px;top:329px;
+}
+.botaoE:active{
+position: absolute;top: 332px;box-shadow:none;
+}
+
+.botaof2{
+position: absolute;left: 111px;top: 130px;
+}
+.botaof2:active{
+position: absolute;
+top: 133px;
+box-shadow:none;
+}
+.botaof3{
+position: absolute;left: 149px;top: 130px;
+}
+.botaof3:active{
+position: absolute;
+top: 133px;
+box-shadow:none;
+}
+.botaof4{
+position: absolute;left: 187px;top: 130px;
+}
+.botaof4:active{
+position: absolute;
+top: 133px;
+box-shadow:none;
+}
+.botao{
+color: #fff;
+width: 40px;
+height: 40px;
+border-radius: 100%;
+cursor: pointer;
+background-color: rgb(48, 48, 48);
+font-size: 100%;
+box-shadow:0 3px 0 #000000;
+border: 1px #000000;
+position: absolute;left: 137px;top: 329px;
+}
+.botao:active{
+position: absolute;
+top: 332px;
+box-shadow:none;
+}
+.botao1{
+color: #fff;
+width: 40px;
+height: 40px;
+border-radius: 100%;
+cursor: pointer;
+background-color: rgb(48, 48, 48);
+font-size: 100%;
+box-shadow:0 3px 0 #000000;
+border: 1px #000000;
+position: absolute;left: 94px;top: 200px;
+}
+.botao1:active{
+position: absolute;
+top: 203px;
+box-shadow:none;
+}
+.botao:active{
+position: absolute;
+top: 332px;
+box-shadow:none;
+}
+.botao2{
+color: #fff;
+width: 40px;
+height: 40px;
+border-radius: 100%;
+cursor: pointer;
+background-color: rgb(48, 48, 48);
+font-size: 100%;
+box-shadow:0 3px 0 #000000;
+border: 1px #000000;
+position: absolute;left: 137px;top: 200px;
+}
+.botao2:active{
+position: absolute;
+top: 203px;
+box-shadow:none;
+}
+.botao3{
+color: #fff;
+width: 40px;
+height: 40px;
+border-radius: 100%;
+cursor: pointer;
+background-color: rgb(48, 48, 48);
+font-size: 100%;
+box-shadow:0 3px 0 #000000;
+border: 1px #000000;
+position: absolute;left: 180px;top: 200px;
+}
+.botao3:active{
+position: absolute;
+top: 203px;
+box-shadow:none;
+}
+.botao4{
+color: #fff;
+width: 40px;
+height: 40px;
+border-radius: 100%;
+cursor: pointer;
+background-color: rgb(48, 48, 48);
+font-size: 100%;
+box-shadow:0 3px 0 #000000;
+border: 1px #000000;
+position: absolute;left: 94px;top: 243px;
+}
+.botao4:active{
+position: absolute;
+top: 246px;
+box-shadow:none;
+}
+.botao5{
+color: #fff;
+width: 40px;
+height: 40px;
+border-radius: 100%;
+cursor: pointer;
+background-color: rgb(48, 48, 48);
+font-size: 100%;
+box-shadow:0 3px 0 #000000;
+border: 1px #000000;
+position: absolute;left: 137px;top: 243px;
+}
+.botao5:active{
+position: absolute;
+top: 246px;
+box-shadow:none;
+}
+.botao6{
+color: #fff;
+width: 40px;
+height: 40px;
+border-radius: 100%;
+cursor: pointer;
+background-color: rgb(48, 48, 48);
+font-size: 100%;
+box-shadow:0 3px 0 #000000;
+border: 1px #000000;
+position: absolute;left: 180px;top: 243px;
+}
+.botao6:active{
+position: absolute;
+top: 246px;
+box-shadow:none;
+}
+.botao7{
+color: #fff;
+width: 40px;
+height: 40px;
+border-radius: 100%;
+cursor: pointer;
+background-color: rgb(48, 48, 48);
+font-size: 100%;
+box-shadow:0 3px 0 #000000;
+border: 1px #000000;
+position: absolute;left: 94px;top: 286px;
+}
+.botao7:active{
+position: absolute;
+top: 289px;
+box-shadow:none;
+}
+.botao8{
+color: #fff;
+width: 40px;
+height: 40px;
+border-radius: 100%;
+cursor: pointer;
+background-color: rgb(48, 48, 48);
+font-size: 100%;
+box-shadow:0 3px 0 #000000;
+border: 1px #000000;
+position: absolute;left: 137px;top: 286px;
+}
+.botao8:active{
+position: absolute;
+top: 289px;
+box-shadow:none;
+}
+.botao9{
+color: #fff;
+width: 40px;
+height: 40px;
+border-radius: 100%;
+cursor: pointer;
+background-color: rgb(48, 48, 48);
+font-size: 100%;
+box-shadow:0 3px 0 #000000;
+border: 1px #000000;
+position: absolute;left: 180px;top: 286px;
+}
+.botao9:active{
+position: absolute;
+top: 289px;
+box-shadow:none;
+}
+.botaobio{
+color: rgb(253, 0, 0);
+width: 50px;
+height: 70px;
+border-radius: 20px;
+cursor: pointer;
+background-color: red;
+border: 2px,black;
+font-size: 150%;
+position: absolute;left: 245px;top: 200px;
+}
+.botaobio:active{
+    color: rgb(0, 0, 0);
+    background-color: #363636;
+}
+
+
+ 
